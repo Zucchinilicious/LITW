@@ -3,6 +3,7 @@
 	<!-- FAQ PAGE -->
    <head>
 	<title>FAQ's</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
    </head>
 <body>
 <ul>
