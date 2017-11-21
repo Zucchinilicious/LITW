@@ -6,11 +6,11 @@
 	<link rel="stylesheet" type="text/css" href="stylesheet.css">
    </head>
 <body>
-<ul>
-  <li><a href="file:///C:/Users/Zach/Desktop/LITW%20Homepage.html">Home</a></li>
-  <li><a href="file:///C:/Users/Zach/Desktop/LITW%20FAQ.html">FAQ</a></li>
-</ul>
-
+	<nav>
+	<a href="file:///C:/Users/Zach/Desktop/LITW%20Homepage.html">Home</a>
+	<a href="file:///C:/Users/Zach/Desktop/LITW%20FAQ.html">FAQ</a>
+	</nav>
+	
 	<h1>Frequently Asked Questions</h1>
 <p>
 Q: What characters are available to date?<br />
